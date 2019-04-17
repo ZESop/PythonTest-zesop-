@@ -7,7 +7,9 @@
 4.generator.py                   链表输出杨辉三角
 5.iterator.py                    迭代对象和迭代器的区别
 6.map.py                         使用map&reduce输出123.456
-
-
+7.filter.py                      使用filter筛选回数
+8.sorted.py                      使用sorted给tuple列表排序
+9.ReturnFn.py                    闭包函数的使用
+10.Decorator.py                  装饰器
 
 ====================================================================================='''
